@@ -1,0 +1,17 @@
+{
+  "name": "rxjs-sample",
+  "version": "1.0.0",
+  "description": "rxjs-sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "h-nagami",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "rx": "^4.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
